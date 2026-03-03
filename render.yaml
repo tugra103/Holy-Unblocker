@@ -2,7 +2,7 @@ services:
   - type: web
     runtime: docker
     name: hu-lts
-    repo: https://github.com/QuiteAFancyEmerald/Holy-Unblocker
+    repo: https://github.com/QuiteAFancyEmerald/Holy-Unblocker.git
     region: oregon
     plan: free
     branch: master
